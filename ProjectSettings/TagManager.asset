@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - InteractableObject
+  - InteractableNPC
+  - PlayerT2
+  - PlayerWI4
+  - Ally
+  - EnemyHPBar
+  - EnemyWI6
+  - PlayerWI6
+  - EnemyWI4
+  - EnemyT2
+  - PickableObject
+  - PlayerGS
+  - EnemyGS
+  - BossGS
+  - EnemyD
+  - PlayerD
+  - PlayerRH
+  - EnemyRH
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - Detection
+  - Shooting
+  - Melee
+  - Ally
+  - EnemyRanged
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

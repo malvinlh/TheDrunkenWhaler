@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 1f90f1719e76fed4b87fc21c71a0e285
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Tutorial/Tutorial1.unity
+    guid: b8ee4fb7dbdd7764fae871b9ca98d2b4
+  - enabled: 1
+    path: Assets/Scenes/Tutorial2.unity
+    guid: bd5066e10e79ec141bdeea599bbab276
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Tutorial/Tutorial3.unity
+    guid: c3f2019cde722294b93098402d11f0bb
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/WhalerIsland/WhalerIsland1.unity
+    guid: c87bb12dfb22e3c44a19b4f33fe6e210
+  - enabled: 1
+    path: Assets/Scenes/WhalerIsland2.unity
+    guid: 2f37b2464997e3c44b982a8fae4c11fa
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/WhalerIsland/WhalerIsland3.unity
+    guid: fcc9747f7032c8e46bb7e0fc60cd8b89
+  - enabled: 1
+    path: Assets/Scenes/WhalerIsland4.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/WhalerIsland/WhalerIsland5.unity
+    guid: ffea7f85da08a734a89ecb3fbefef276
+  - enabled: 1
+    path: Assets/Scenes/WhalerIsland6.unity
+    guid: 6ebb3b080f6384d4fbf03da64e49a451
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/WhalerIsland/WhalerIsland7.unity
+    guid: a5eccb4dd2438e247825b19f29c95d06
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/SkullIsland/SkullIsland1.unity
+    guid: 9bbadd23510b0014b941168acd2053a6
+  - enabled: 1
+    path: Assets/Scenes/SkullIsland2.unity
+    guid: 6d2775e6d840f6040a17d7cca5dc88bf
+  - enabled: 1
+    path: Assets/Scenes/GiantSkeletonDungeon.unity
+    guid: cb97b7e3c5790d44cbf3fc087b4c9c27
+  - enabled: 1
+    path: Assets/Scenes/SkullIsland3.unity
+    guid: f297ce0415ffe864ca54993ad4be6af5
+  - enabled: 1
+    path: Assets/Scenes/DemonDungeon.unity
+    guid: 74e9e00ff11ec27428fbe5795e04139b
+  - enabled: 1
+    path: Assets/Scenes/SkullIsland4.unity
+    guid: 16a5c60f3923e2c45b19d90529dd9c8d
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/RegentsHaven/RegentsHaven1.unity
+    guid: f2170ed04ab437d4b9d8e9aa0d7b0236
+  - enabled: 1
+    path: Assets/Scenes/RegentsHaven2.unity
+    guid: 1f5b63e29324a7d4482574319d60b44e
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/RegentsHaven/RegentsHaven3.unity
+    guid: cef6d9759d3d5ba4f8d57fb80db2e6f1
+  - enabled: 1
+    path: Assets/Scenes/RegentsHaven4.unity
+    guid: fe935cac8153b7e4a93ecae88d0fe21b
+  m_configObjects: {}
