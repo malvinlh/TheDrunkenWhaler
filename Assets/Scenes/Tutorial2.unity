@@ -619,7 +619,7 @@ PrefabInstance:
       objectReference: {fileID: 1906272379}
     - target: {fileID: 2402094615177075276, guid: 81614731f68a9954c97140120b2ef74b, type: 3}
       propertyPath: meleeDamage
-      value: 1
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 2815001673974053717, guid: 81614731f68a9954c97140120b2ef74b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20376,7 +20376,7 @@ PrefabInstance:
       objectReference: {fileID: 638702301}
     - target: {fileID: 9190612811581201233, guid: 142f3ef103c723447baa37b5dd47247a, type: 3}
       propertyPath: currentHealth
-      value: 1
+      value: 100
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 7954376785718401843, guid: 142f3ef103c723447baa37b5dd47247a, type: 3}
