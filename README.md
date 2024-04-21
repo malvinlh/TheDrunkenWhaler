@@ -20,4 +20,4 @@ Welcome to The Drunken Whaler, a top-down pixel hack-and-slash adventure where y
         <li>Improved Combat Mechanics: Enhance the fluidity and excitement of battle.</li>
         <li>Add Ship Exploration: Navigate the high seas, engaging in thrilling ship-to-ship combat and exploration.</li>
     </ol>
-Feel free to download the executable [here](https://mileonstudio.itch.io/the-drunken-whaler/). After opening the link, you can download the zip, extract it, and run TheDrunkenWhaler.
+Feel free to download the executable here: https://mileonstudio.itch.io/the-drunken-whaler. After opening the link, you can download the zip, extract it, and run TheDrunkenWhaler.
